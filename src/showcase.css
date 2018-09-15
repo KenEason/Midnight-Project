@@ -1,16 +1,21 @@
 	body {
       text-align: center;
-      background: url("http://dash.ga.co/assets/anna-bg.png");
+      background: url("http://www.earthriversup.com/wp-content/uploads/2016/10/Plain-design-pattern-dark-background-image-HD-resolution-latest-pack.jpg");
       background-size: cover;
       background-position: center;
       color: white;
       font-family: helvetica;
     }
     p {
-      font-size: 20px;
+      font-size: 60px;
+      color: white
     }
-    h1 {
+    p1 {font-size: 40px;
+      color: white
+      }
+    h2 {
       font-family:Courier;
+      font-size: 60px;
     }
 
     
@@ -51,7 +56,7 @@
 }
 
 .title {
-  color: grey;
+  color: white;
 }
 
 .button {
